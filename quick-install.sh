@@ -30,9 +30,3 @@ pip install Mopidy-Material-Webclient
 pip install Mopidy-Iris
 pip install Mopidy-Local-SQLite
 
-
-# scan music
-mopidy local scan
-
-
-
