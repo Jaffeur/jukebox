@@ -13,3 +13,9 @@ run file ***quick-install.sh*** with admin rights
 ### Config
 
 copy past ***mopidy.conf*** in ~/.config/mopidy/
+
+### Run
+* Scan music files
+```bash
+$sudo mopidy local scan
+```
