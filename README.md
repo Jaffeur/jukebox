@@ -1,6 +1,8 @@
 # jukebox
 Jukebox server and react native client 
 
+## Music
+Put music in /home/music
 
 ## Mopidy
 
