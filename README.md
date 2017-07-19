@@ -19,7 +19,8 @@ copy past ***mopidy.conf*** in ~/.config/mopidy/
 ```bash
 $sudo mopidy local scan
 ```
-## Test
+## Test with virtualbox
+
+* 1. Install VirtualBox on host
 
 If you want to test use virtualbox
-[Here is how to connect Host and Guest](https://www.tecmint.com/network-between-guest-vm-and-host-virtualbox/)
