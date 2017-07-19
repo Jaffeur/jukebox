@@ -8,7 +8,7 @@ Don't forget to complete file's field such as Artist and TrackName
 ## Mopidy
 
 ### Install
-use file ***quick-install.sh
+run file ***quick-install.sh*** with admin rights
 
 ### Config
 
