@@ -24,6 +24,9 @@ apt-get update
 apt-get install -y mopidy
 
 
+# music
+mkdir /home/music
+
 # mopidy webextension
 pip install configobj
 pip install Mopidy-Material-Webclient
